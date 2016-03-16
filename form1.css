@@ -1,0 +1,6 @@
+form label {
+    display: block;
+    float: left;
+    width: 123px;
+    text-align: right;
+}
