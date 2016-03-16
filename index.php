@@ -137,10 +137,10 @@
 
    <form  name="myform" method="POST" action="insert.php">  
 
-   <label>Name</label>       : <input type="text" name="name" >              <br>
+   <label>Name</label> : <input type="text" name="name" >        <br>
    <label>Department</label> : <input type="text" name="department">   <br>
    <label>Vacation from</label>   : <input type="text" name="vacationfrom" class="datepicker" >   <br>
-   <label>too</label>             : <input type="text" name="too"          class="datepicker" >   <br>
+            <label>too</label>    : <input type="text" name="too" class="datepicker" >   <br>
    <label> who will be your substitute during your absence : </label> 
    <select name="options">
      <option value = "Director"> Director    </option> <br>
